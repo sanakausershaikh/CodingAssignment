@@ -12,7 +12,7 @@ public class Health{
 		int optm;
 
 		if(age>=65){
-			System.out.println("choose the following ooptions for the health care checkups\n1.Routine checkup \n2.Checkup for cholestrol,Blood pressure and Sugar levels \n3.Checkup for bones and joints \n4.Doing yoga and exercises \n5.Eating Healthy");
+			System.out.println("Choose the following ooptions for the health care checkups\n1.Routine checkup \n2.Checkup for cholestrol,Blood pressure and Sugar levels \n3.Checkup for bones and joints \n4.Doing yoga and exercises \n5.Eating Healthy");
   			optn=sc.nextInt();
 			switch(optn){
 				case 1:System.out.println("Go for a routine checkup atleast once in three months to a general Physician");
