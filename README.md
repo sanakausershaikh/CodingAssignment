@@ -15,13 +15,13 @@ public class Health{
 			System.out.println("choose the following ooptions for the health care checkups\n1.Routine checkup \n2.Checkup for cholestrol,Blood pressure and Sugar levels \n3.Checkup for bones and joints \n4.Doing yoga and exercises \n5.Eating Healthy");
   			optn=sc.nextInt();
 			switch(optn){
-				case 1:System.out.println("Go for a routine checkup atleast once in three months to a general physician");
+				case 1:System.out.println("Go for a routine checkup atleast once in three months to a general Physician");
 				break;
 
 				case 2:System.out.println("Do a test for cholestrol,Blood pressure and Sugar levels and if any rise in found in any of the three then consult the right doctor ");
 				break;
 
-				case 3:System.out.println("Do a checkup of joints if any pain or swelling on the joints and arrange an appointment with the orthopedic");
+				case 3:System.out.println("Do a checkup of joints if any pain or swelling on the joints and arrange an appointment with the Orthopedic");
 				break;
 
 				case 4:System.out.println("Do Yoga and exercises on daily basis");
