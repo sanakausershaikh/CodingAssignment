@@ -9,7 +9,7 @@ public class Health{
 		
 		Scanner sc=new Scanner(System.in);
 		int age=sc.nextInt();
-		int optm;
+		int optn;
 
 		if(age>=65){
 			System.out.println("Choose the following ooptions for the health care checkups\n1.Routine checkup \n2.Checkup for cholestrol,Blood pressure and Sugar levels \n3.Checkup for bones and joints \n4.Doing yoga and exercises \n5.Eating Healthy");
